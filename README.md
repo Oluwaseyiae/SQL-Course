@@ -1,1 +1,1 @@
-# SQL-Course
+# 30 Days of SQL
